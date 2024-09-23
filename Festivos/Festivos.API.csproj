@@ -24,7 +24,6 @@
     <ProjectReference Include="..\Festivos.Application\Festivos.Application.csproj" />
     <ProjectReference Include="..\Festivos.Context\Festivos.Context.csproj" />
     <ProjectReference Include="..\Festivos.Domain\Festivos.Domain.csproj" />
-    <ProjectReference Include="..\Festivos.Persistence\Festivos.Context.csproj" />
   </ItemGroup>
 
 </Project>
